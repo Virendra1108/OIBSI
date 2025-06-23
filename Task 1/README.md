@@ -29,5 +29,6 @@ The file `output.png` contains a terminal screenshot showing the result of the N
 - `nmap_scan_results.txt` contains the complete scan result in plain text format.
 
 ## Demo Video
+![image](https://github.com/user-attachments/assets/bc639399-5a08-4ffb-8252-f3490e734fdb)
+link: https://youtu.be/HKUczzB_x1w
 
-An optional demo video is included in the `demo/` folder, showing how to perform the scan step by step.
