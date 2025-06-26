@@ -34,7 +34,23 @@ The purpose of this report is to explore various types of social engineering att
 - Train employees to detect and report suspicious behavior.
 - Restrict data access to a need-to-know basis.
 
-## 3. Baiting
+## 3. Malware
+**How It Works:** Malware is a general term for harmful software, including viruses, worms, trojans, and ransomware. It spreads through infected downloads, malicious websites, or attachments. Once inside a system, it can steal, encrypt, or destroy data.
+
+**Impact:**
+- Confidential data may be leaked or held hostage.
+- Systems may become unusable or compromised.
+- Malware can propagate across networks, affecting multiple machines.
+
+**Real-World Example:** The WannaCry ransomware attack in 2017 exploited a vulnerability in Windows, encrypting data in over 200,000 systems across 150 countries, including hospitals and transport systems.
+
+**Preventive Measures:**
+- Keeping operating systems and software up to date.
+- Using reliable antivirus and endpoint protection solutions.
+- Avoiding downloads from untrusted sources.
+- Regularly backing up important data and storing it securely.
+
+## 4. Baiting
 **How It Works:** Baiting lures victims into taking actions by offering something enticing—such as a free USB drive or download—that contains malware or grants unauthorized access.
 
 **Impact:**
