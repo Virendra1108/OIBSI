@@ -2,7 +2,7 @@
 # Oasis Infobyte Security Analyst Internship Tasks
 
 This repository contains GitHub Deliverables of tasks completed for the Oasis Infobyte Security Analyst Internship.
-DEMO VIDEOS LINKS ARE PROVIDED IN SPECIFIC TASK README.MD FILE.
+DEMO VIDEOS ARE UPLOADED ON YOUTUBE AND LINKS ARE PROVIDED IN SPECIFIC TASK README.MD FILE.
 ## Completed Tasks:
 
 1. [Basic Network Scanning with Nmap](https://github.com/Virendra1108/OIBSI/tree/75139cae5af2314c2c9503dd5e5dd30e1043c521/Task%201)
