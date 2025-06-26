@@ -22,7 +22,7 @@ The objective of this project is to perform a basic network scan using Nmap in o
    
 ## Screenshot
 
-The file `output.png` contains a terminal screenshot showing the result of the Nmap scan.
+The file `output_screenshot.png` contains a terminal screenshot showing the result of the Nmap scan.
 
 ## Output File
 
