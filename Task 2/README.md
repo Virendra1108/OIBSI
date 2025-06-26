@@ -51,7 +51,5 @@ Once configured, the firewall should:
 
 ## Demo Videos
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/144ece79-ad85-40b9-9ca5-53d02d6b1a40" />
-<img width="527" alt="image" src="https://github.com/user-attachments/assets/144ece79-ad85-40b9-9ca5-53d02d6b1a40" />
 
-
-link : https://youtu.be/MNRB4w4xiKg
+link of video : https://youtu.be/MNRB4w4xiKg
