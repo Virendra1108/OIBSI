@@ -20,23 +20,7 @@ The objective of this report is to explore and analyze common network security t
 - Setting up firewalls and intrusion detection systems to filter traffic.
 - Partnering with DDoS protection services like Cloudflare or Akamai.
 
-## 2. Phishing
-**How It Works:** Phishing involves sending deceptive emails or messages pretending to be from a trusted source. The goal is to trick users into revealing sensitive information like login credentials or financial data.
-
-**Impact:**
-- Loss of personal or organizational data.
-- Unauthorized access to accounts or financial theft.
-- Could result in larger data breaches if organizational credentials are stolen.
-
-**Real-World Example:** Between 2013 and 2015, attackers defrauded Google and Facebook of over $100 million using fake invoices and emails impersonating a real vendor.
-
-**Preventive Measures:**
-- Educating users to recognize suspicious links and emails.
-- Enabling two-factor authentication (2FA) to reduce account compromise risks.
-- Using advanced spam filters and domain verification mechanisms like SPF and DKIM.
-- Regular phishing simulation exercises to test user awareness.
-
-## 3. Man-in-the-Middle (MITM) Attack
+## 2. Man-in-the-Middle (MITM) Attack
 **How It Works:** In a MITM attack, the attacker secretly intercepts and possibly alters communication between two parties. This can happen on unsecured networks, allowing attackers to steal sensitive data or inject malicious content.
 
 **Impact:**
@@ -52,7 +36,7 @@ The objective of this report is to explore and analyze common network security t
 - Avoiding public Wi-Fi or using a VPN when connecting.
 - Implementing certificate pinning to prevent fake certificate usage.
 
-## 4. Spoofing (IP and MAC Spoofing)
+## 3. Spoofing (IP and MAC Spoofing)
 **How It Works:** Spoofing involves disguising a malicious device as a trusted one by faking its IP or MAC address. This allows the attacker to bypass filters or impersonate legitimate users or systems.
 
 **Impact:**
@@ -68,7 +52,7 @@ The objective of this report is to explore and analyze common network security t
 - Using authentication protocols that don’t rely solely on IP or MAC addresses.
 - Monitoring network traffic for unusual behavior or patterns.
 
-## 5. SQL Injection (SQLi)
+## 4. SQL Injection (SQLi)
 **How It Works:** SQL injection exploits vulnerable input fields by injecting SQL queries that interact directly with the database. If not properly sanitized, attackers can retrieve or manipulate confidential data.
 
 **Impact:**
