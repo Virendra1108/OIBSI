@@ -19,16 +19,12 @@ The objective of this project is to perform a basic network scan using Nmap in o
 
 3. Save the scan output to a text file:   nmap -sV 10.0.2.15 -oN nmap_scan_results.txt
 
-   
-## Screenshot
-
-The file `output_screenshot.png` contains a terminal screenshot showing the result of the Nmap scan.
-
-## Output File
-
-- `nmap_scan_results.txt` contains the complete scan result in plain text format.
+## Files Included
+- `nmap_scan_reult.txt`: Contains result/output of Nmap scaning in text format.
+-  `output_screenshot.jpg`: contains screenshot of nmap scan output.
 
 ## Demo Video
 ![image](https://github.com/user-attachments/assets/bc639399-5a08-4ffb-8252-f3490e734fdb)
-link: https://youtu.be/HKUczzB_x1w
+
+link of video: https://youtu.be/HKUczzB_x1w
 
