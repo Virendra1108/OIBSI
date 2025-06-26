@@ -45,8 +45,8 @@ Once configured, the firewall should:
 
 ## Files Included
 
-- `config.sh`: Shell script that automates the configuration steps
-- `result.png`: Screenshot showing the result of the `ufw status verbose` command
+- `ufw_config.sh`: Shell script that automates the configuration steps
+- `status_screenshot.png`: Screenshot showing the result of the `ufw status verbose` command
 - `README.md`: Documentation explaining the purpose, steps, and outcome
 
 ## Demo Videos
