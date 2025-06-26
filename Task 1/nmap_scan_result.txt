@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Fri Jun 20 11:57:40 2025 as: nmap -sS -sV -O -p- -oN nmap_scan_result.txt 10.0.2.15
+Nmap scan report for virendra (10.0.2.15)
+Host is up (0.000041s latency).
+All 65535 scanned ports on virendra (10.0.2.15) are in ignored states.
+Not shown: 65535 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Jun 20 11:57:43 2025 -- 1 IP address (1 host up) scanned in 3.05 seconds
